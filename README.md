@@ -34,7 +34,7 @@ This website replicates the visual layout of the New York Times desktop home pag
 
 ## 📸 Screenshots
 
-![Project Screenshot](newYorkTimes_homepage.jpg)
+![Project Screenshot](homepage_screenshot.jpg)
 
 ## 👤 Author
 
